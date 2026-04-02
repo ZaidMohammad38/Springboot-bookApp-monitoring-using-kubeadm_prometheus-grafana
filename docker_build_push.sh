@@ -2,7 +2,7 @@
 
 set -e
 
-IMAGE_NAME="zaidmohammad038/bookapp_monitoring_system"
+IMAGE_NAME="zaidmohammad038/springboot-bookapp-monitoring-using_prometheus-grafana"
 DOCKER_USER="zaidmohammad038"
 
 echo "🔍 Checking Docker..."
