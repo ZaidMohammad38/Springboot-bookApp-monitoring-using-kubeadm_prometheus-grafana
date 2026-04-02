@@ -27,7 +27,7 @@ spec:
             - name: SPRING_DATASOURCE_USERNAME
               value: root
             - name: SPRING_DATASOURCE_PASSWORD
-              value: "root"
+              value: "1234"
 
 ---
 apiVersion: v1
