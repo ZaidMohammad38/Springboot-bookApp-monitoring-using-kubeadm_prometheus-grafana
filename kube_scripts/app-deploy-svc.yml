@@ -18,7 +18,7 @@ spec:
           image: zaidmohammad038/springboot-bookapp-monitoring-using_prometheus-grafana:latest
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 8085
+            - containerPort: 8080
           env:
             - name: SPRING_APPLICATION_NAME
               value: Springboot-bookApp-monitoring-using_prometheus-grafana
@@ -40,6 +40,6 @@ spec:
     app: spring-bookapp
   ports:
     - name: http
-      port: 8085
-      targetPort: 8085
+      port: 8080
+      targetPort: 8080
       nodePort: 30088
