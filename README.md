@@ -1,9 +1,9 @@
 # 📚 Spring Boot BookApp Monitoring System using Kubernetes, Prometheus & Grafana
 
-![GitHub Repo Banner](https://img.shields.io/badge/Project-DevOps%20Monitoring-blue) ![Spring Boot](<img width="1919" height="942" alt="Screenshot 2026-04-03 121834" src="https://github.com/user-attachments/assets/6548a342-db5e-4589-9108-9a8fe0cc0ec1" />
-) ![Prometheus](<img width="1919" height="871" alt="Screenshot 2026-04-03 121812" src="https://github.com/user-attachments/assets/7086e863-523d-4d50-8967-cb8fa2c15803" />
-) ![Grafana](<img width="1523" height="868" alt="Screenshot 2026-04-03 121757" src="https://github.com/user-attachments/assets/043f07c7-9585-4752-98a1-53645eb8952f" />
-)
+![GitHub Repo Banner](https://img.shields.io/badge/Project-DevOps%20Monitoring-blue) 
+!<img width="1919" height="942" alt="Screenshot 2026-04-03 121834" src="https://github.com/user-attachments/assets/6548a342-db5e-4589-9108-9a8fe0cc0ec1" />
+!<img width="1919" height="871" alt="Screenshot 2026-04-03 121812" src="https://github.com/user-attachments/assets/7086e863-523d-4d50-8967-cb8fa2c15803" />
+<img width="1523" height="868" alt="Screenshot 2026-04-03 121757" src="https://github.com/user-attachments/assets/043f07c7-9585-4752-98a1-53645eb8952f" />
 
 A production-style **end-to-end DevOps project** that demonstrates how to build, containerize, deploy, and monitor a Spring Boot CRUD application in a Kubernetes cluster.
 
