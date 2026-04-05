@@ -21,7 +21,7 @@ spec:
             - containerPort: 8080
           env:
             - name: SPRING_APPLICATION_NAME
-              value: Springboot-bookApp-monitoring-using_prometheus-grafana
+              value: Springboot-bookApp-monitoring-using-kubeadm_prometheus-grafana
             - name: SPRING_DATASOURCE_URL
               value: jdbc:mysql://mysql-service:3306/myapplication?createDatabaseIfNotExist=true
             - name: SPRING_DATASOURCE_USERNAME
